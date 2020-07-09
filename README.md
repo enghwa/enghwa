@@ -2,7 +2,7 @@
 
 I am a Specialist Solutions Architect, focusing on helping developers build cool applications on AWS with containers and serverless. 
 
-- 🌱 I’m currently learning Phoenix and Elixr 🚀
+- 🌱 I’m currently learning Phoenix and Elixir 🚀
 - 💬 Ask me about AWS Fargate, Cloud Development Kit (CDK) and all thing containers 🐳
 - 📫 How to reach me: <a href="https://twitter.com/code4kopi">@code4kopi</a> 🐧
 
